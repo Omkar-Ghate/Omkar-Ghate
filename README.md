@@ -26,7 +26,8 @@ Skills:
 <a href="https://www.linkedin.com/in/omkarghate/">LinkedIn</a>
   
 <br>
-Visitors: 
+
+
 ![counter](https://en1qodfjyx0p72o.m.pipedream.net)
 
 
