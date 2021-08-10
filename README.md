@@ -11,7 +11,7 @@ About Me
   <li>I'm also a Competitive Programmer.</li>
 </ul>
 
-![Omkar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-Ghate&show_icons=true&theme=radical)
+![My GitHub stats](https://github-readme-stats.vercel.app/api?username=Omkar-Ghate&show_icons=true&theme=radical) <img src="https://github-readme-streak-stats.herokuapp.com/?user=Omkar-Ghate&theme=radical"/>
 
 <br>
 <br>
@@ -23,8 +23,7 @@ About Me
 
 📌 Contact Me :
 
-[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/omkarghate/)
-[<img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/OmkarGhate9)
+[<img align="center" height="40" src="https://img.icons8.com/color/144/000000/linkedin.png"/>](https://www.linkedin.com/in/omkarghate/) <img align="center" height="40" src="https://img.icons8.com/fluent/144/000000/twitter.png"/>](https://twitter.com/OmkarGhate9)
  
 ![counter](https://en1qodfjyx0p72o.m.pipedream.net)
 
