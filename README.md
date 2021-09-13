@@ -6,7 +6,7 @@
 
 About Me
 <ul>
-  <li>I am a Second-Year Student at KIT's College of Engineering, Kolhapur. 🏫</li>
+  <li>I am a prefinal-year student at KIT's College of Engineering, Kolhapur. 🏫</li>
   <li>I am currently learning Full-Stack Web Development. 🌐</li>
   <li>I'm also a Competitive Programmer.</li>
 </ul>
